@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black; /* Add black background color */
+}
+
+.terms {
+    max-width: 600px;
+    padding: 20px;
+    text-align: justify;
+    background-color: white; /* Set box background color to white */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow for depth effect */
+}
+
+h2 {
+    text-align: center;
+}
